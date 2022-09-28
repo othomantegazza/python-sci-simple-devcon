@@ -1,7 +1,7 @@
 {
-	"name": "prototype devcon",
+	"name": "Basic Python Container",
 	"build": {
-		"dockerfile": "Dockerfile",
+		"dockerfile": "Dockerfile"
 		//"context": "..",
 		//"args": { 
 		//	// Update 'VARIANT' to pick a Python version: 3, 3.9, 3.8, 3.7, 3.6.
